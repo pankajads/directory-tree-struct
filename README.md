@@ -9,6 +9,7 @@ Wndows - Non Windows - treegen("/temp/test")
 Code has tested with python 3.7 or higher
 
 # Output
+```
 |scripts/
     |--aws powershell.ps1
     |--config-changes.ps1
@@ -29,4 +30,4 @@ Code has tested with python 3.7 or higher
     |py/
         |--.gitkeep
 3 directories, 16 files
-
+```
