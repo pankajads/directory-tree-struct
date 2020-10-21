@@ -2,8 +2,8 @@
 List directory structure like tree command using python
 
 # Usage
-Linux - Windows - treegen("C:\\temp\\mt-infra-deployment")
-Wndows - Non Windows - treegen("/temp/mt-infra-deployment")
+Linux - Windows - treegen("C:\\temp\\test")
+Wndows - Non Windows - treegen("/temp/test")
 
 # Note 
 Code has tested with python 3.7 or higher
